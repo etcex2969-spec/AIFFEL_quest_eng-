@@ -9,7 +9,7 @@
 - <img width="1505" height="496" alt="image" src="https://github.com/user-attachments/assets/751de716-9ac1-4d98-b80c-0ccb68b038e0" />
 
 - 
-- [x].  2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된
+- [x]  2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된
 - 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?
 - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
 - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
